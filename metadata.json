@@ -1,0 +1,6 @@
+{
+  "name": "TechSec Systems | IT Infrastructure & Support",
+  "description": "Minimalist portfolio and service portal for tech support, network security, web & mail hosting, CCTV & access control, system automation, and cloud services with interactive carousels and diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
